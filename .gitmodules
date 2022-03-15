@@ -1,0 +1,3 @@
+[submodule "lib/TroykaDHT"]
+	path = lib/TroykaDHT
+	url = git@github.com:amperka/TroykaDHT.git
